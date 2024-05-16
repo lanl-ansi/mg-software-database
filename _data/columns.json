@@ -1,0 +1,10 @@
+{
+  "Application Name": "name",
+  "License": "license",
+  "Supported File Formats": "file_formats",
+  "Supported Algorithms": "algorithms",
+  "Source Code": "source",
+  "Documentation": "documentation",
+  "Homepage": "homepage",
+  "Description": "description"
+}

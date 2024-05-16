@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} {{ content }}
+
+  <table id="myTable" class="display">
+    <thead>
+      <tr>
+        {% for col_hash in site.data.columns %} {% assign col = col_hash[0] %}
+        <th>{{col}}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for app_hash in site.data.apps %} {% assign app = app_hash[1] %}
+
+      <tr>
+        {% for col_hash in site.data.columns %} {% assign col = col_hash[1] %}
+        <td>
+          {% assign data = app[col] %} {% if data.first %}
+          <ul>
+            {% for item in data %}
+            <li>{{item}}</li>
+            {% endfor %}
+          </ul>
+          {% elsif data contains "http" %}
+          <a href="{{data}}">{{data}}</a>
+          {% else %} {{app[col]}} {% endif %}
+        </td>
+        {% endfor %}
+      </tr>
+
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<script>
+  let table = new DataTable("#myTable", {
+    layout: {
+      topStart: {
+        buttons: [
+          {
+            extend: "colvis",
+            columnText: function (dt, idx, title) {
+              return idx + 1 + ": " + title;
+            },
+          },
+        ],
+      },
+    },
+  });
+</script>

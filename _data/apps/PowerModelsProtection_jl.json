@@ -1,0 +1,15 @@
+{
+  "name": "PowerModelsProtection.jl",
+  "source": "https://github.com/lanl-ansi/PowerModelsProtection.jl",
+  "documentation": "https://lanl-ansi.github.io/PowerModelsProtection.jl/stable/",
+  "license": "BSD-3",
+  "file_formats": [
+    "OpenDSS",
+    "matpower",
+    "PSSE/RAW",
+    "PowerModelsDistribution-JSON"
+  ],
+  "algorithms": ["fault studies"],
+  "description": "Fault study for PowerModels and PowerModelsDistribution",
+  "homepage": "https://github.com/lanl-ansi/PowerModelsProtection.jl"
+}

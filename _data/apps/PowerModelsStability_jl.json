@@ -1,0 +1,15 @@
+{
+  "name": "PowerModelsStability.jl",
+  "source": "https://github.com/lanl-ansi/PowerModelsStability.jl",
+  "documentation": "https://lanl-ansi.github.io/PowerModelsStability.jl/stable/",
+  "license": "BSD-3",
+  "file_formats": [
+    "OpenDSS",
+    "matpower",
+    "PSSE/RAW",
+    "PowerModelsDistribution-JSON"
+  ],
+  "algorithms": ["small-signal stability"],
+  "description": "PowerModelsStability is an extention package of PowerModelsDistribution.jl for Power Distribution Network Optimization with Stability Constraints.",
+  "homepage": "https://github.com/lanl-ansi/PowerModelsStability.jl"
+}
