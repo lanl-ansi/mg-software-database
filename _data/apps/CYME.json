@@ -1,0 +1,10 @@
+{
+  "name": "CYME",
+  "source": "https://www.cyme.com/software/",
+  "documentation": "https://www.cyme.com/",
+  "license": "commercial",
+  "file_formats": ["Proprietary CYME", "CIM XML Profile"],
+  "algorithms": [],
+  "description": "The CYME Power Engineering software is a suite of applications composed of a network editor, analysis modules and user-customizable model libraries from which you can choose to get the most powerful solution. ",
+  "homepage": "https://www.cyme.com/"
+}

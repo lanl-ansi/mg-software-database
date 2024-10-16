@@ -1,0 +1,10 @@
+{
+  "name": "The Distributed Energy Resources Customer Adoption Model (DER-CAM)",
+  "source": "https://dercam-app.lbl.gov/",
+  "documentation": "https://gridintegration.lbl.gov/der-cam",
+  "license": "",
+  "file_formats": ["DER-CAM XLSX"],
+  "algorithms": [],
+  "description": "A software tool used to optimize the selection and operation of distributed energy resources (DERs) such as solar, wind, and energy storage systems. DER-CAM helps users determine the most cost-effective and efficient combination of DERs for a specific site or region, taking into account factors like energy demand, resource availability, and economic constraints.",
+  "homepage": "https://gridintegration.lbl.gov/der-cam"
+}

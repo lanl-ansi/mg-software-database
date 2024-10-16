@@ -1,0 +1,10 @@
+{
+  "name": "Microgrid Design Toolkit (MDT)",
+  "source": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/",
+  "documentation": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/",
+  "license": "Multiple",
+  "file_formats": ["Propietary MDT"],
+  "algorithms": [],
+  "description": "Microgrid Design Toolkit is a decision support software for microgrid designeres that is publicly available.",
+  "homepage": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/"
+}

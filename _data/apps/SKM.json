@@ -1,0 +1,10 @@
+{
+  "name": "SKM PowerTools",
+  "source": "https://www.skm.com/",
+  "documentation": "https://www.skm.com/",
+  "license": "Commercial",
+  "file_formats": ["Proprietary SKM"],
+  "algorithms": [],
+  "description": "A software for power system analysis and simulation, including microgrids.",
+  "homepage": "https://www.skm.com/"
+}

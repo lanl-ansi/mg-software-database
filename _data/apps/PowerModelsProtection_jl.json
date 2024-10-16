@@ -7,7 +7,7 @@
     "OpenDSS",
     "matpower",
     "PSSE/RAW",
-    "PowerModelsDistribution-JSON"
+    "PowerModelsDistribution JSON"
   ],
   "algorithms": ["fault studies"],
   "description": "Fault study for PowerModels and PowerModelsDistribution",

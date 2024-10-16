@@ -7,7 +7,7 @@
     "OpenDSS",
     "matpower",
     "PSSE/RAW",
-    "PowerModelsDistribution-JSON"
+    "PowerModelsDistribution JSON"
   ],
   "algorithms": ["small-signal stability"],
   "description": "PowerModelsStability is an extention package of PowerModelsDistribution.jl for Power Distribution Network Optimization with Stability Constraints.",

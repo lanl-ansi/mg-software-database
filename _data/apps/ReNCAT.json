@@ -1,0 +1,10 @@
+{
+  "name": "ReNCAT: The Resilient Node Cluster Analysis Tool",
+  "source": "https://energy.sandia.gov/resilient-node-cluster-analysis-tool/",
+  "documentation": "https://energy.sandia.gov/wp-content/uploads/2022/12/ReNCAT_The-Resilient-Node-Cluster-Analysis-Tool.pdf",
+  "license": "",
+  "file_formats": ["ReNCAT JSON"],
+  "algorithms": [],
+  "description": "ReNCAT is a publicly available software tool that suggests microgrid portfolios to reduce the impact of power disruptions, measured by the Social Burden Metric developed by Sandia National Laboratory. t analyzes a simplified version of the power grid to isolate regions into microgrids, ensuring critical services remain available during outages. ReNCAT identifies microgrid portfolios with different tradeoffs between cost and service availability, helping decision-makers optimize energy resilience. ReNCAT uses a genetic algorithm (GA) to analyze the distribution system and determine optimal placement of microgrids to ensure critical services remain available to the community most equitably during grid outages ",
+  "homepage": "https://energy.sandia.gov/wp-content/uploads/2022/12/ReNCAT_The-Resilient-Node-Cluster-Analysis-Tool.pdf"
+}

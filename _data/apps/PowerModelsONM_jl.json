@@ -4,7 +4,7 @@
   "homepage": "https://github.com/lanl-ansi/PowerModelsONM.jl",
   "documentation": "https://lanl-ansi.github.io/PowerModelsONM.jl/stable/",
   "license": "BSD-3",
-  "file_formats": ["OpenDSS", "CIM-XML", "RAVENS-JSON"],
+  "file_formats": ["OpenDSS", "CIM XML Profile (via MG-RAVENS)", "RAVENS JSON"],
   "algorithms": ["optimal topology"],
   "description": "PowerModelsONM focuses on optimizing the operations and restoration of phase unbalanced (multiconductor) distribution feeders that feature multiple grid-forming generation assets such as solar PV, deisel generators, energy storage, etc. Phase unbalanced modeling is achieved using PowerModelsDistribution. This library features a custom implementation of an optimal switching / load shedding (mld) problem. See documentation for more details."
 }
