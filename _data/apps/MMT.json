@@ -1,0 +1,10 @@
+{
+  "name": "Microgrid Modelling Toolkit (MMT)",
+  "source": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/",
+  "documentation": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/",
+  "license": "",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "Microgrid Modelling Toolkit is a decision support software for microgrid designeres that is publicly available.",
+  "homepage": "https://energy.sandia.gov/programs/electric-grid/advanced-microgrids/microgrid-design-toolkit/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Open-source platform for Energy Storage Analytics",
+  "source": "https://github.com/sandialabs/snl-quest",
+  "documentation": "https://github.com/sandialabs/snl-quest",
+  "license": " ",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "An open-source Python software designed for energy storage (ES) analytics. The QuESt App Hub functions like an app store, providing access to a variety of energy storage analytics tools designed to enhance user experience and application management. Current offerings include the QuESt Data Manager for data acquisition, QuESt Valuation for estimating revenue from ancillary services, QuESt BTM for cost savings analysis for behind-the-meter systems, QuESt Technology Selection for choosing suitable storage technologies, QuESt Performance for assessing system efficiency in various climates, and QuESt Microgrid for microgrid design and simulation. The hub features user-friendly access, isolated environments for each app to prevent conflicts, and the ability to run multiple applications simultaneously, facilitating a seamless experience for users.",
+  "homepage": "https://www.sandia.gov/ess/tools-resources/quest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Homer Energy",
+  "source": "https://homerenergy.com/products/index.html",
+  "documentation": "https://homerenergy.com/",
+  "license": "",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "Modeling and analysis software for designing hybrid microgrids or distributed generation systems.",
+  "homepage": "https://homerenergy.com/"
+}

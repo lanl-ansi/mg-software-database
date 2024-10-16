@@ -1,0 +1,10 @@
+{
+  "name": "GridLAB-D",
+  "source": "https://github.com/gridlab-d/gridlab-d/releases",
+  "documentation": "https://www.gridlabd.org/",
+  "license": "",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "A power distribution and analysis tool to design and operate distribtuion systems.",
+  "homepage": "https://www.gridlabd.org/"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Renewable Energy Integration and Optimization",
+  "source": "https://github.com/NREL/REopt_API",
+  "documentation": "https://github.com/NREL/REopt_API",
+  "license": " ",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "An open source tool designed to help users evaluate and optimize renewable energy systems, such as solar, wind, and battery storage. It assesses various factors like energy consumption patterns, renewable resource availability, and economic considerations to recommend the best energy strategies. Some of the key features are energy resource assessment, system design and sizing, economic analysis, grid intergration, etc.",
+  "homepage": "https://www.nrel.gov/reopt/"
+}

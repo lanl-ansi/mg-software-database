@@ -1,0 +1,10 @@
+{
+  "name": "OpenDSS",
+  "source": "https://sourceforge.net/projects/electricdss/",
+  "documentation": "https://www.epri.com/pages/sa/opendss",
+  "license": "BSD License",
+  "file_formats": [],
+  "algorithms": [],
+  "description": "A comprehensive electric power system simulation tool that can be used for microgrid analysis",
+  "homepage": "https://www.epri.com/pages/sa/opendss"
+}
