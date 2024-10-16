@@ -4,12 +4,15 @@ The MG-RAVENS project that will support the development the software database to
 
 ## Running the website locally
 
-You must have `ruby` / `gem` installed on your machine, for example using `homebrew`:
+You must have `ruby` / `gem` installed on your machine, for example using `homebrew` (on a M1 Mac):
 
 ```sh
-brew install rbenv ruby-build
-rbenv install 3.3.0
-rbenv global 3.3.0
+brew install chruby ruby-install
+ruby-install 3.3.5
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-3.3.5" >> ~/.zshrc # run 'chruby' to see actual version
+source ~/.zshrc
 ```
 
 Then you need to install jekyll:
