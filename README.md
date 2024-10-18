@@ -26,3 +26,9 @@ Then you can run the website:
 ```sh
 jekyll serve --livereload
 ```
+
+## License and Copyright
+
+The contents of the deployed website are approved by Unlimited Release by Los Alamos National Laboratory
+
+LA-UR-24-31286
